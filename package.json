@@ -2,9 +2,14 @@
   "name": "devops-tools-extension-pack",
   "displayName": "DevOps Tools Extension Pack",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.95.0"
+  },
+  "publisher": "appku",
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/rsangunda/devops-tools-extension-pack"
   },
   "categories": [
     "Extension Packs"
